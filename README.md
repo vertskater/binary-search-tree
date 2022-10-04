@@ -1,8 +1,8 @@
-#Binary-search-tree
+# Binary-search-tree
 
-##JavaScript
+## JavaScript
 
-###Methods
+### Methods
 
 - ```
   buidldTree(arr)
