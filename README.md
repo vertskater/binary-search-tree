@@ -10,27 +10,33 @@
 - ```
   insert(value)
   ```
-  - ```
-    delete(node)
-    ```
-  ````
-  - ```
+- ```
+  delete(value)
+  ```
+- ```
   find(value)
-  ````
-  - ```
-    buidldTree(arr)
-    ```
-  ````
-  - ```
-  buidldTree(arr)
-  ````
-  - ```
-    buidldTree(arr)
-    ```
-  ````
-  - ```
-  buidldTree(arr)
-  ````
-  - ```
-    buidldTree(arr)
-    ```
+  ```
+- ```
+  levelOrder()
+  ```
+- ```
+  inOrder()
+  ```
+- ```
+  postOrder()
+  ```
+- ```
+  preOrder()
+  ```
+- ```
+  height(node)
+  ```
+- ```
+  depth(node)
+  ```
+- ```
+  isBalanced(root)
+  ```
+- ```
+  reBalance(root)
+  ```
